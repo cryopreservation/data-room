@@ -51,5 +51,11 @@ Part II: Freezing and Rewarming Technologies
 
     - Magnetic/ iron oxide nanoparticles embedded in cryoprotectants (CPA) solutions
     - vitrification state
+    
+    
+  2. Artificial Heart
+    
+    - electrical power for reviving
+    - perfusion for rewarming
 
 
