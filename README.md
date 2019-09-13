@@ -47,9 +47,9 @@ Part I: Learn from nature
    
 Part II: Freezing and Rewarming Technologies
 
-1. Nanowarming
+  1. Nanowarming
 
-  - iron oxide nanoparticles
-  - vitrification state
+    - Magnetic/ iron oxide nanoparticles embedded in cryoprotectants (CPA) solutions
+    - vitrification state
 
 
