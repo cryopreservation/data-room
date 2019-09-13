@@ -13,7 +13,7 @@ Part I: Learn from nature
 
     1. Desiccation tolerance
 
-      - Tardigrade‘s intrinsically disordered proteins (TDPs): DOI:https://doi.org/10.1016/j.molcel.2017.02.018
+      - Tardigrade‘s intrinsically disordered proteins (TDPs): TDPs upregulated upon desiccation DOI:https://doi.org/10.1016/j.molcel.2017.02.018： “TDPs are highly hydrophilic, abundantly expressed, and essential as well as sufficient for desiccation tolerance. ”
       - heat shock proteins (HSPs):Antarctic midge, fish and ciliate
 
     2.1 Freeze avoidance - lower the blood's freezing point
